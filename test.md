@@ -3,6 +3,8 @@ description: Smoketest page
 title: Testing page
 hide_from_sitemap: true
 ---
+okilker@gmail.com
+San Francisco, CA
 
 # Heading 1
 
@@ -12,7 +14,7 @@ automatically inserted.
 ## Heading 2
 
 This is the highest heading included in the right-nav. To include more heading
-levels, set `toc_min: 1` in the page-s front-matter. You can go all the way to
+levels, set `toc_min: 1` in the page-s (page's) front-matter. You can go all the way to
 6, but if `toc_min` is geater than `toc_max` then no headings will show.
 
 ### Heading 3
@@ -41,6 +43,7 @@ the page's front-matter.
 ## Typography
 
 Plain block of text.
+
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
@@ -368,7 +371,7 @@ Current styles for admonitions in
 support two broad categories of admonitions: those with prefixed text (**Note:**,
 **Important:**, **Warning**) and those with prefixed icons.
 
-The new styles (with icons) are defined in a way that will not impact admonitions 
+The new styles (with icons) are defined in a way that will not impact admonitions
 formatted with the original styles (prefixed text), so notes in your
 published documents won't be adversely affected.
 
